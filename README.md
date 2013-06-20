@@ -6,11 +6,10 @@ SolidWorks 3D model of the BeagleBone Black
 Contains the following:
 - SolidWorks, IGES, STEP files
 - 3D PDF (open in Adobe Reader)
-- STL file for 3D Printing
 
 Made available by Logic Supply based on information from BeagleBoard.org
 
-Visit Logic Supply to buy the BeagleBone Black and accessories at www.logicsupply.com/products/bb100
+Visit Logic Supply to buy the BeagleBone Black and accessories at http://www.logicsupply.com/products/bb_bblk_000
 
 Designed by Rodney Hill and Hans Brakeley for LGX Logic Supply.
 
