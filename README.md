@@ -4,7 +4,7 @@ BeagleBone Black 3D Model
 SolidWorks 3D model of the BeagleBone Black
 
 Contains the following:
-- SolidWorks, IGES, STEP files
+- SolidWorks, IGES, STEP, STL files
 - 3D PDF (open in Adobe Reader)
 
 Made available by Logic Supply based on information from BeagleBoard.org
