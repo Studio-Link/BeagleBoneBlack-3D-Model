@@ -3,6 +3,8 @@ BeagleBone Black 3D Model
  
 SolidWorks 3D model of the BeagleBone Black
 
+To download, click "Download ZIP" to the right -->
+
 Contains the following:
 - SolidWorks, IGES, STEP, STL files
 - 3D PDF (open in Adobe Reader)
